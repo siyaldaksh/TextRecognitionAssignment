@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextRecognitionAssignment</string>
+    <string name="image_desc">Image that you selected from gallary or captured from camera</string>
+</resources>

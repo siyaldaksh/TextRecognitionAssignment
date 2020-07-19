@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325808973753",
+    "firebase_url": "https://assignment-cc643.firebaseio.com",
+    "project_id": "assignment-cc643",
+    "storage_bucket": "assignment-cc643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325808973753:android:608ed5c4973828e1f1f868",
+        "android_client_info": {
+          "package_name": "com.appbin.textrecognitionassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325808973753-bgmckgr23brq6s3hnm3e4cm85m9oce2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT1BXrUQAYjbmTm5iY06qdqvQxt_EIg50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325808973753-bgmckgr23brq6s3hnm3e4cm85m9oce2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
